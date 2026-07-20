@@ -1,134 +1,271 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:111827,100:0ea5e9&text=Jesús%20Adolfo%20Márquez%20Trejo&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:111827,100:0ea5e9&text=Jesús%20Adolfo%20Márquez%20Trejo&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Full%20Stack%20Engineer%20with%20a%20Frontend%20Soul&descAlignY=58&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+real-world+web+applications.;Frontend+specialist+%E2%9A%9B%EF%B8%8F+with+Full+Stack+skills.;React+%7C+Node.js+%7C+PostgreSQL.;Always+learning+something+new." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=I+build+digital+products+that+solve+real+problems;React+on+the+front%2C+Node.js+on+the+back;Government+platforms%2C+automation+and+clean+architecture;Always+learning.+Always+shipping." alt="Typing SVG" />
 
 <br/>
 
-<a href="https://github.com/Jesusmarq"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://www.linkedin.com/in/jamt17/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:jesus.marquez170701@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Jesusmarq">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/jamt17/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:jesus.marquez170701@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# About Me
+## About me
 
 ```ts
 const jesus = {
   role: "Full Stack Software Engineer",
-  specialization: "Frontend Engineering",
-  secondaryFocus: "Backend Development",
-  location: "Pachuca, Hidalgo 🇲🇽",
+  location: "Pachuca, Hidalgo, México",
+  frontendSoul: true,
   experience: "3+ years",
-  stack: ["React","Node.js","PostgreSQL"],
-  currentMission: "Building enterprise software with clean architecture."
-}
+  currentFocus: [
+    "Enterprise applications",
+    "Digital government",
+    "Clean architecture",
+    "AI-powered products"
+  ],
+  favoriteStack: ["React", "Node.js", "PostgreSQL"],
+  mindset: "Build useful things. Make them look good. Leave the code better."
+};
 ```
 
-I enjoy building complete products—from polished user interfaces to scalable APIs and relational databases. Most of my experience comes from enterprise and government platforms where reliability, maintainability and user experience matter.
+I design and build complete web platforms, from the database and APIs to the final user experience.
+
+My sweet spot is **frontend engineering**, but I also work across backend, databases, integrations, infrastructure and deployment. Most of my experience comes from building institutional systems that automate real processes, generate documents, integrate external services and support day-to-day operations.
 
 ---
 
-# Tech Stack
+## My stack
 
 <div align="center">
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,vite,js,ts,html,css,bootstrap,tailwind,figma"/>
 
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,django,symfony"/>
+<img src="https://skillicons.dev/icons?i=react,vite,js,ts,html,css,bootstrap,tailwind,figma&perline=9" alt="Frontend technologies" />
 
-### Database & Tools
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,git,github,vscode,postman,linux,aws,docker"/>
+### Backend & Data
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,symfony,postgres,mongodb&perline=7" alt="Backend and database technologies" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+
+### Tools & Cloud
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,aws,docker,nginx&perline=8" alt="Tools and cloud technologies" />
 
 </div>
 
 ---
 
-# Projects
+## What I build
 
-| 🚀 Project | Description |
-|------------|-------------|
-| 🏛 Oficina Virtual | Platform for 50+ government services, electronic signature, PDF/Excel generation and workflow automation. |
-| 🎓 Student Platform | Social service and internship management with QR validation and digital signatures. |
-| 🚴 Fusion Studio | Reservation and membership platform for indoor cycling studios. |
-| ⚙ Enterprise Systems | Medical, inventory, requisitions and administrative management systems. |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Oficina Virtual
+
+Institutional platform used to manage more than **50 government services**.
+
+**Highlights**
+
+- Dynamic workflows and forms
+- Electronic signature integration
+- Automated PDF and Excel generation
+- Audit logs and request tracking
+- INEGI, payroll and institutional API integrations
+- React, Node.js, Express, PostgreSQL and Sequelize
+
+</td>
+<td width="50%" valign="top">
+
+### Social Service Platform
+
+End-to-end platform for students completing social service, internships and professional stays.
+
+**Highlights**
+
+- Multi-level approval flows
+- Electronic signatures
+- QR document validation
+- Automated acceptance and completion letters
+- Student records and accumulated hours
+- React, Flask, Python and PostgreSQL
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Fusion Studio
+
+Platform for managing indoor cycling classes, reservations, memberships and trainers.
+
+**Highlights**
+
+- Reservations and schedules
+- Membership management
+- Multi-site vision
+- Operational dashboards
+- Responsive interfaces
+
+</td>
+<td width="50%" valign="top">
+
+### Other systems
+
+I've also contributed to platforms for:
+
+- Medical appointments
+- Vehicle verification centers
+- Institutional requisitions
+- Inventory and asset control
+- Internal administrative processes
+
+</td>
+</tr>
+</table>
 
 ---
 
-# Engineering Mindset
+## Engineering mindset
 
-> **Build software that users enjoy, developers understand and businesses can grow with.**
+<div align="center">
+
+> **Good software should solve the problem, survive new requirements and remain understandable for the next developer.**
+
+</div>
 
 ```bash
-✔ Clean Architecture
-✔ UI/UX
-✔ Scalable APIs
-✔ Documentation
-✔ Continuous Learning
+$ philosophy
+
+✓ User experience matters
+✓ Clean architecture matters
+✓ Documentation matters
+✓ Shipping matters
+✓ Learning never stops
 ```
 
 ---
 
-# Currently Learning
+## Currently exploring
 
 ```text
-React                     ████████████████ 95%
-
-Node.js                   ████████████░░░░ 75%
-
-PostgreSQL                ███████████░░░░░ 70%
-
-Backend Architecture      ██████████░░░░░░ 65%
-
-Python                    ███████░░░░░░░░░ 45%
-
-Artificial Intelligence   ███░░░░░░░░░░░░░ 20%
-
-LLMs & RAG                ██░░░░░░░░░░░░░░ 15%
-
-Docker                    ██░░░░░░░░░░░░░░ 15%
-
-Kubernetes                ░░░░░░░░░░░░░░░░ 0%
-
-English (TOEFL Journey)   ████░░░░░░░░░░░░ 30%
+AI applications        ███░░░░░░░░░░░░ 20%
+LLMs & RAG             ██░░░░░░░░░░░░░ 15%
+Docker                 ██░░░░░░░░░░░░░ 15%
+Cloud architecture     ████░░░░░░░░░░░ 25%
+Backend design         █████████░░░░░░ 60%
+English / TOEFL        █████░░░░░░░░░░ 35%
 ```
 
 ---
 
-# GitHub Insights
+## GitHub analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jesusmarq&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jesusmarq&theme=github_dark" alt="GitHub statistics" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jesusmarq&theme=github_dark" alt="Top languages by repository" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesusmarq&layout=compact&theme=tokyonight&hide_border=true"/>
+<br/>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jesusmarq&theme=github_dark" alt="GitHub profile details" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jesusmarq&theme=github-compact&hide_border=true&area=true&custom_title=Jes%C3%BAs%20Adolfo%20M%C3%A1rquez%20Trejo%27s%20Contribution%20Graph" alt="GitHub contribution graph" />
 
 </div>
 
-> 📈 Activity graph and contribution snake will be enabled once the GitHub Actions workflow is configured.
+---
+
+## Contribution snake
+
+<div align="center">
+
+<p>
+  The animation will appear here after running the included GitHub Actions workflow.
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jesusmarq/Jesusmarq/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jesusmarq/Jesusmarq/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Jesusmarq/Jesusmarq/output/github-contribution-grid-snake.svg" alt="Contribution snake animation">
+</picture>
+
+</div>
+
+<details>
+<summary><strong>Snake animation workflow</strong></summary>
+
+Create this file:
+
+```text
+.github/workflows/snake.yml
+```
+
+```yml
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+          branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
 
 ---
 
 <div align="center">
 
-```text
-while(alive){
+### Let's build something useful.
 
-    Learn();
-    Build();
-    Improve();
-    Repeat();
+<img src="https://komarev.com/ghpvc/?username=Jesusmarq&label=Profile%20views&color=0ea5e9&style=flat-square" alt="Profile views" />
 
-}
-```
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Jesusmarq&label=Profile%20Views&color=0ea5e9&style=flat-square"/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0ea5e9,50:111827,100:0f172a"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,50:111827,100:0f172a"/>
 
 </div>
