@@ -197,14 +197,19 @@ English / TOEFL        █████░░░░░░░░░░ 35%
 
 <div align="center">
 
-<p>
-  The animation will appear here after running the included GitHub Actions workflow.
-</p>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jesusmarq/Jesusmarq/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jesusmarq/Jesusmarq/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/Jesusmarq/Jesusmarq/output/github-contribution-grid-snake.svg" alt="Contribution snake animation">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Jesusmarq/Jesusmarq/gh-pages/github-contribution-grid-snake-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Jesusmarq/Jesusmarq/gh-pages/github-contribution-grid-snake.svg"
+  >
+  <img
+    src="https://raw.githubusercontent.com/Jesusmarq/Jesusmarq/gh-pages/github-contribution-grid-snake.svg"
+    alt="Contribution snake animation"
+  >
 </picture>
 
 </div>
