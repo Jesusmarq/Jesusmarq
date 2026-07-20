@@ -1,153 +1,180 @@
-<h1 align="center">Hey 👋 I'm Jesús Adolfo Márquez Trejo</h1>
+# 👋 Hey, I'm Jesús Adolfo Márquez Trejo
 
-<h3 align="center">
-Full Stack Software Engineer • React • Node.js • PostgreSQL
-</h3>
-
+```{=html}
 <p align="center">
-Building software that solves real-world problems.
+```
+`<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&lines=Full+Stack+Software+Engineer;React+Specialist+%E2%9A%9B%EF%B8%8F;Node.js+%7C+PostgreSQL+%7C+APIs;Building+Enterprise+Software;Always+Learning..." />`{=html}
+```{=html}
 </p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://skillicons.dev/icons?i=react,vite,js,ts,nodejs,express,postgres,python,flask,django,symfony,mongodb,git,github,aws,linux,vscode,docker" />`{=html}
+```{=html}
+</p>
+```
 
----
+------------------------------------------------------------------------
 
 ## 🚀 About Me
 
-I'm a Full Stack Software Engineer from 🇲🇽 Mexico passionate about building scalable web applications and creating software that makes people's work easier.
+``` bash
+> whoami
 
-Currently I'm developing enterprise and government platforms focused on:
+Jesús Adolfo Márquez Trejo
 
-- 🏛️ Digital government
-- 📄 Document automation
-- 🔐 Electronic signatures
-- 📊 Administrative systems
-- ☁️ Cloud deployments
-- 🔌 REST API integrations
+Full Stack Software Engineer
+Frontend-first developer ⚛️
+Backend enthusiast ⚙️
 
-I enjoy designing complete solutions from the database to the frontend, always trying to write clean, maintainable and scalable code.
+Building enterprise and government software.
+Passionate about clean architecture, UI/UX and scalable systems.
+```
 
----
+## 💡 Philosophy
 
-## 💻 Tech Stack
+> I don't just write code.
+>
+> I build software that is maintainable, scalable and enjoyable for the
+> next developer.
+
+------------------------------------------------------------------------
+
+# 🧠 Tech Stack
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
-![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss)
+-   React
+-   Vite
+-   JavaScript
+-   TypeScript
+-   Bootstrap
+-   Tailwind CSS
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django)
-![Symfony](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony)
+-   Node.js
+-   Express
+-   Flask
+-   Django
+-   Symfony
 
 ### Database
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
-![Sequelize](https://img.shields.io/badge/Sequelize-black?style=for-the-badge&logo=sequelize)
+-   PostgreSQL
+-   MongoDB
+-   Sequelize ORM
 
-### DevOps & Tools
+### DevOps
 
-- Git
-- GitHub
-- Linux
-- Nginx
-- AWS Amplify
-- Postman
-- DBeaver
-- VS Code
-- Figma
+-   AWS Amplify
+-   Linux
+-   Docker (Learning)
+-   Nginx
+-   Git & GitHub
 
----
+------------------------------------------------------------------------
 
-# 📌 Featured Projects
+# 🏛 Featured Projects
 
-### 🏛️ Oficina Virtual
+## Oficina Virtual
 
-A government platform that digitalizes more than **50 administrative services**.
+Enterprise platform for digital government.
 
-Highlights:
+✨ Features
 
-- Dynamic forms
-- Electronic signature integration
-- PDF & Excel generation
-- Email automation
-- Audit logs
-- INEGI integration
-- Payroll integration
-- PostgreSQL + Sequelize
+-   Dynamic forms
+-   REST APIs
+-   Electronic Signature
+-   PDF & Excel Generation
+-   Audit Logs
+-   Email Automation
+-   PostgreSQL
+-   React
+-   Node.js
 
----
+------------------------------------------------------------------------
 
-### 🎓 Social Service Platform
+## 🎓 Social Service Platform
 
-System for managing:
+Management system for students.
 
-- Student registrations
-- Approval workflows
-- QR validation
-- Electronic signatures
-- Automatic document generation
+-   Approval workflows
+-   QR Validation
+-   Electronic Signatures
+-   Document Generation
 
----
+------------------------------------------------------------------------
 
-### 🚴 Fusion Studio
+## 🚴 Fusion Studio
 
-Reservation and membership platform for indoor cycling studios.
+Reservation & Membership Platform.
 
-Features:
+-   Multi Tenant
+-   Reservations
+-   Memberships
+-   Dashboards
 
-- Multi-tenant architecture
-- Memberships
-- Reservations
-- Trainers
-- Payments
-- Dashboard
+------------------------------------------------------------------------
 
----
+# 📈 Currently Learning
 
-## 📈 What I'm currently learning
+-   🐳 Docker
+-   ☸ Kubernetes
+-   🤖 Artificial Intelligence
+-   🧠 LLMs & RAG
+-   ☁ Cloud Architecture
 
-- 🐳 Docker
-- ☸️ Kubernetes
-- 🤖 Artificial Intelligence
-- 🧠 LLM & RAG Applications
-- 🐍 Python Ecosystem
-- 🏗️ Software Architecture
+------------------------------------------------------------------------
 
----
+# 🎯 2026 Goals
 
-## 🎯 2026 Goals
+-   Become a stronger Backend Engineer
+-   Build AI-powered applications
+-   Contribute to Open Source
+-   Earn my TOEFL Certification
 
-- ✅ Become a stronger Backend Engineer
-- ✅ Deepen my knowledge of Cloud Architecture
-- ✅ Build AI-powered applications
-- ✅ Contribute to Open Source
-- ✅ Earn an international English certification (TOEFL)
+------------------------------------------------------------------------
 
----
+# 📊 GitHub Stats
 
-## 🌎 Languages
+> Replace the username with yours.
 
-🇪🇸 Spanish (Native)
+``` md
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jesusmarq&show_icons=true&theme=tokyonight)
 
-🇺🇸 English (B1 - improving every day 🚀)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesusmarq&layout=compact&theme=tokyonight)
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=Jesusmarq&theme=tokyonight)
 
-## 📫 Connect with me
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jesusmarq&theme=tokyo-night)
+```
 
-- 💼 LinkedIn
-- 💻 Portfolio
-- 📧 Email
-- 🌎 GitHub
+------------------------------------------------------------------------
 
----
+# 🐍 Contribution Snake
 
-> "Software isn't just code. It's solving problems for real people."
+``` md
+![Snake animation](https://github.com/Jesusmarq/Jesusmarq/blob/output/github-contribution-grid-snake-dark.svg)
+```
+
+------------------------------------------------------------------------
+
+# ☕ Connect with Me
+
+-   💼 LinkedIn
+-   🌎 Portfolio
+-   📧 Email
+-   💻 GitHub
+
+------------------------------------------------------------------------
+
+```{=html}
+<p align="center">
+```
+**"Code is temporary. Good architecture scales."**
+
+```{=html}
+</p>
+```
