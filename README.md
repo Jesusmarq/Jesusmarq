@@ -178,16 +178,25 @@ English / TOEFL        █████░░░░░░░░░░ 35%
 
 <div align="center">
 
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jesusmarq&theme=github_dark" alt="GitHub statistics" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jesusmarq&theme=github_dark" alt="Top languages by repository" />
+<img
+  height="165"
+  src="https://raw.githubusercontent.com/Jesusmarq/Jesusmarq/main/profile-summary-card-output/github_dark/3-stats.svg"
+  alt="GitHub statistics"
+/>
+
+<img
+  height="165"
+  src="https://raw.githubusercontent.com/Jesusmarq/Jesusmarq/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"
+  alt="Top languages by repository"
+/>
 
 <br/>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jesusmarq&theme=github_dark" alt="GitHub profile details" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jesusmarq&theme=github-compact&hide_border=true&area=true&custom_title=Jes%C3%BAs%20Adolfo%20M%C3%A1rquez%20Trejo%27s%20Contribution%20Graph" alt="GitHub contribution graph" />
+<img
+  width="100%"
+  src="https://raw.githubusercontent.com/Jesusmarq/Jesusmarq/main/profile-summary-card-output/github_dark/0-profile-details.svg"
+  alt="GitHub profile details"
+/>
 
 </div>
 
