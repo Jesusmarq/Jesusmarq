@@ -180,22 +180,22 @@ English / TOEFL        █████░░░░░░░░░░ 35%
 
 <img
   height="165"
-  src="https://raw.githubusercontent.com/Jesusmarq/Jesusmarq/main/profile-summary-card-output/github_dark/3-stats.svg"
-  alt="GitHub statistics"
-/>
-
-<img
-  height="165"
   src="https://raw.githubusercontent.com/Jesusmarq/Jesusmarq/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"
   alt="Top languages by repository"
 />
 
-<br/>
+<img
+  height="165"
+  src="https://raw.githubusercontent.com/Jesusmarq/Jesusmarq/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"
+  alt="Top languages by commit"
+/>
+
+<br/><br/>
 
 <img
-  width="100%"
-  src="https://raw.githubusercontent.com/Jesusmarq/Jesusmarq/main/profile-summary-card-output/github_dark/0-profile-details.svg"
-  alt="GitHub profile details"
+  height="165"
+  src="https://raw.githubusercontent.com/Jesusmarq/Jesusmarq/main/profile-summary-card-output/github_dark/4-productive-time.svg"
+  alt="Productive commit time"
 />
 
 </div>
