@@ -1,71 +1,309 @@
-<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:111827,100:0ea5e9&text=Jesús%20Adolfo%20Márquez%20Trejo&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Full%20Stack%20Engineer%20with%20a%20Frontend%20Soul&descAlignY=58&animation=fadeIn"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=I+build+digital+products+that+solve+real+problems;React+on+the+front%2C+Node.js+on+the+back;Government+platforms%2C+automation+and+clean+architecture;Always+learning.+Always+shipping." alt="Typing SVG" /> <br/> <a href="https://github.com/Jesusmarq"> <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/jamt17/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:jesus.marquez170701@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div> --- ## About me
-ts
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:111827,100:0ea5e9&text=Jesús%20Adolfo%20Márquez%20Trejo&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Node.js%20%7C%20PostgreSQL&descAlignY=58&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+web+platforms+for+real+users;React+on+the+front%2C+Node.js+on+the+back;Government+platforms%2C+automation+and+integrations;Learning+Python%2C+Data+Science+and+Cloud." alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/Jesusmarq">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/jamt17/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:jesus.marquez170701@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## About me
+
+```ts
 const jesus = {
-  role: "Full Stack Software Engineer",
+  role: "Full Stack Developer",
   location: "Pachuca, Hidalgo, México",
-  frontendSoul: true,
   experience: "3+ years",
-  currentFocus: [
-    "Enterprise applications",
-    "Digital government",
-    "Clean architecture",
-    "AI-powered products"
+
+  mainStack: [
+    "React",
+    "Node.js",
+    "Express",
+    "PostgreSQL"
   ],
-  favoriteStack: ["React", "Node.js", "PostgreSQL"],
-  mindset: "Build useful things. Make them look good. Leave the code better."
+
+  currentlyLearning: [
+    "Python",
+    "Data Science",
+    "Machine Learning",
+    "Cloud Computing"
+  ],
+
+  interests: [
+    "Frontend Engineering",
+    "Software Architecture",
+    "Data",
+    "AI"
+  ]
 };
-I design and build complete web platforms, from the database and APIs to the final user experience. My sweet spot is **frontend engineering**, but I also work across backend, databases, integrations, infrastructure and deployment. Most of my experience comes from building institutional systems that automate real processes, generate documents, integrate external services and support day-to-day operations. --- ## My stack <div align="center"> ### Frontend <img src="https://skillicons.dev/icons?i=react,vite,js,ts,html,css,bootstrap,tailwind,figma&perline=9" alt="Frontend technologies" /> ### Backend & Data <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,symfony,postgres,mongodb&perline=7" alt="Backend and database technologies" /> <br/> <img src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /> ### Tools & Cloud <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,aws,docker,nginx&perline=8" alt="Tools and cloud technologies" /> </div> --- ## What I build <table> <tr> <td width="50%" valign="top"> ### Oficina Virtual Institutional platform used to manage more than **50 government services**. **Highlights** - Dynamic workflows and forms - Electronic signature integration - Automated PDF and Excel generation - Audit logs and request tracking - INEGI, payroll and institutional API integrations - React, Node.js, Express, PostgreSQL and Sequelize </td> <td width="50%" valign="top"> ### Social Service Platform End-to-end platform for students completing social service, internships and professional stays. **Highlights** - Multi-level approval flows - Electronic signatures - QR document validation - Automated acceptance and completion letters - Student records and accumulated hours - React, Flask, Python and PostgreSQL </td> </tr> <tr> <td width="50%" valign="top"> ### Fusion Studio Platform for managing indoor cycling classes, reservations, memberships and trainers. **Highlights** - Reservations and schedules - Membership management - Multi-site vision - Operational dashboards - Responsive interfaces </td> <td width="50%" valign="top"> ### Other systems I've also contributed to platforms for: - Medical appointments - Vehicle verification centers - Institutional requisitions - Inventory and asset control - Internal administrative processes </td> </tr> </table> --- ## Engineering mindset <div align="center"> > **Good software should solve the problem, survive new requirements and remain understandable for the next developer.** </div>
-bash
+```
+
+I build and maintain web platforms used in real operational environments.
+
+My main experience is working with **React, Node.js, Express and PostgreSQL**, developing frontend interfaces, backend APIs, databases, integrations and internal tools.
+
+I also maintain and contribute to systems built with **Python, Flask and Symfony**, and I have hands-on experience working with Linux servers and deploying projects using AWS services such as Amplify.
+
+Most of my professional experience comes from building institutional systems that automate real processes, generate documents, integrate external services and support everyday operations.
+
+Right now, I'm expanding my technical background toward **Python, Data Science, Machine Learning and Cloud Computing**.
+
+---
+
+## My stack
+
+<div align="center">
+
+### Main technologies
+
+<img src="https://skillicons.dev/icons?i=react,vite,js,ts,html,css,bootstrap,nodejs,express,postgres,git,github,postman,vscode&perline=7" alt="Main technologies" />
+
+<br/>
+
+### Technologies I've worked with
+
+<img src="https://skillicons.dev/icons?i=python,symfony,mongodb,linux,aws&perline=5" alt="Technologies I've worked with" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize" />
+
+<img src="https://img.shields.io/badge/AWS%20Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white" alt="AWS Amplify" />
+
+</div>
+
+---
+
+## What I build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Oficina Virtual
+
+Institutional platform focused on digitizing government procedures and internal services.
+
+**My work includes:**
+
+- Frontend development with React
+- Backend APIs with Node.js and Express
+- PostgreSQL and Sequelize
+- Dynamic forms and workflows
+- Electronic signature integration
+- Automated PDF and Excel generation
+- Request tracking and audit logs
+- External and institutional API integrations
+- Maintenance and continuous feature development
+
+</td>
+<td width="50%" valign="top">
+
+### Social Service Platform
+
+Platform for managing social service, internships and professional stays.
+
+**My work includes:**
+
+- Maintenance and feature development
+- Python / Flask backend
+- PostgreSQL database
+- Electronic signatures
+- QR document validation
+- Multi-level approval workflows
+- Automated acceptance and completion documents
+- Student records and accumulated hours
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Institutional Systems
+
+I've also worked on platforms related to:
+
+- Institutional requisitions
+- Inventory and asset control
+- Internal administrative workflows
+- Medical appointments
+- Vehicle verification centers
+- Operational dashboards
+- Reporting systems
+
+</td>
+<td width="50%" valign="top">
+
+### Personal & collaborative projects
+
+Outside my main work, I also experiment with projects involving:
+
+- Web applications
+- REST APIs
+- UI / UX improvements
+- AWS deployments
+- Automation
+- Data analysis
+- Python learning projects
+
+</td>
+</tr>
+</table>
+
+---
+
+## Engineering mindset
+
+<div align="center">
+
+> **Good software should solve the problem, remain understandable and be easy to maintain.**
+
+</div>
+
+```bash
 $ philosophy
 
 ✓ User experience matters
-✓ Clean architecture matters
+✓ Clean code matters
+✓ Maintainability matters
 ✓ Documentation matters
-✓ Shipping matters
+✓ Good architecture matters
 ✓ Learning never stops
---- ## Currently exploring
-text
-AI applications        ███░░░░░░░░░░░░ 20%
-LLMs & RAG             ██░░░░░░░░░░░░░ 15%
-Docker                 ██░░░░░░░░░░░░░ 15%
-Cloud architecture     ████░░░░░░░░░░░ 25%
-Backend design         █████████░░░░░░ 60%
-English / TOEFL        █████░░░░░░░░░░ 35%
---- ## GitHub analytics <div align="center"> <img height="165" src="https://raw.githubusercontent.com/Jesusmarq/Jesusmarq/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top languages by repository" /> <img height="165" src="https://raw.githubusercontent.com/Jesusmarq/Jesusmarq/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages by commit" /> <br/><br/> <img height="165" src="https://raw.githubusercontent.com/Jesusmarq/Jesusmarq/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive commit time" /> </div> --- ## Contribution snake <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jesusmarq/Jesusmarq/gh-pages/github-contribution-grid-snake-dark.svg" > <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jesusmarq/Jesusmarq/gh-pages/github-contribution-grid-snake.svg" > <img src="https://raw.githubusercontent.com/Jesusmarq/Jesusmarq/gh-pages/github-contribution-grid-snake.svg" alt="Contribution snake animation" > </picture> </div> <details> <summary><strong>Snake animation workflow</strong></summary> Create this file:
-text
-.github/workflows/snake.yml
-yml
-name: Generate contribution snake
+```
 
-on:
-  schedule:
-    - cron: "0 */24 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+I like building solutions that are useful first, but also structured well enough that they can continue growing without becoming impossible to maintain.
 
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
+---
 
-    steps:
-      - name: Generate contribution snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+## Currently learning
 
-      - name: Publish snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-          branch: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-</details> --- <div align="center"> ### Let's build something useful. <img src="https://komarev.com/ghpvc/?username=Jesusmarq&label=Profile%20views&color=0ea5e9&style=flat-square" alt="Profile views" /> <br/><br/> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,50:111827,100:0f172a"/> </div>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,postgres,aws&perline=3" alt="Currently learning" />
+
+</div>
+
+<br/>
+
+```text
+Python fundamentals
+Data Science
+SQL for analytics
+Machine Learning
+Cloud fundamentals
+Software architecture
+English / TOEFL
+```
+
+I'm currently preparing for a Master's degree focused on **Data Analysis, Data Science and Big Data**, so part of my learning path is gradually expanding from web development into data engineering, analytics and machine learning.
+
+---
+
+## Learning roadmap
+
+```text
+Web Development
+      │
+      ├── Frontend
+      │     └── React / JavaScript / TypeScript
+      │
+      ├── Backend
+      │     └── Node.js / Express / APIs
+      │
+      ├── Databases
+      │     └── PostgreSQL / SQL
+      │
+      └── Software Architecture
+              │
+              ▼
+           Python
+              │
+              ▼
+         Data Science
+              │
+              ▼
+      Machine Learning
+              │
+              ▼
+              AI
+```
+
+---
+
+## GitHub analytics
+
+<div align="center">
+
+<img
+  height="165"
+  src="https://raw.githubusercontent.com/Jesusmarq/Jesusmarq/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"
+  alt="Top languages by repository"
+/>
+
+<img
+  height="165"
+  src="https://raw.githubusercontent.com/Jesusmarq/Jesusmarq/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"
+  alt="Top languages by commit"
+/>
+
+<br/><br/>
+
+<img
+  height="165"
+  src="https://raw.githubusercontent.com/Jesusmarq/Jesusmarq/main/profile-summary-card-output/github_dark/4-productive-time.svg"
+  alt="Productive commit time"
+/>
+
+</div>
+
+---
+
+## Development philosophy
+
+```text
+Understand the problem
+        ↓
+Design a simple solution
+        ↓
+Build
+        ↓
+Test
+        ↓
+Improve
+        ↓
+Ship
+        ↓
+Maintain
+```
+
+I prefer learning by building real things, breaking them, understanding why they broke and improving them.
+
+---
+
+<div align="center">
+
+### Building, learning and improving.
+
+<img src="https://komarev.com/ghpvc/?username=Jesusmarq&label=Profile%20views&color=0ea5e9&style=flat-square" alt="Profile views" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,50:111827,100:0f172a"/>
+
+</div>
