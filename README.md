@@ -92,9 +92,7 @@ Right now, I'm expanding my technical background toward **Python, Data Science, 
 ## What I build
 
 <table>
-
 <tr>
-
 <td width="50%" valign="top">
 
 ### Oficina Virtual
@@ -114,7 +112,6 @@ Institutional platform focused on digitizing government procedures and internal 
 - Maintenance and continuous feature development
 
 </td>
-
 <td width="50%" valign="top">
 
 ### Social Service Platform
@@ -133,11 +130,9 @@ Platform for managing social service, internships and professional stays.
 - Student records and accumulated hours
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
 ### Institutional Systems
@@ -153,7 +148,6 @@ I've also worked on platforms related to:
 - Reporting systems
 
 </td>
-
 <td width="50%" valign="top">
 
 ### Personal & collaborative projects
@@ -169,9 +163,7 @@ Outside my main work, I also experiment with projects involving:
 - Python learning projects
 
 </td>
-
 </tr>
-
 </table>
 
 ---
@@ -259,6 +251,14 @@ Web Development
 <div align="center">
 
 <img
+  width="100%"
+  src="https://raw.githubusercontent.com/Jesusmarq/Jesusmarq/main/profile-summary-card-output/github_dark/0-profile-details.svg"
+  alt="GitHub profile details"
+/>
+
+<br/><br/>
+
+<img
   height="165"
   src="https://raw.githubusercontent.com/Jesusmarq/Jesusmarq/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"
   alt="Top languages by repository"
@@ -276,20 +276,6 @@ Web Development
   height="165"
   src="https://raw.githubusercontent.com/Jesusmarq/Jesusmarq/main/profile-summary-card-output/github_dark/4-productive-time.svg"
   alt="Productive commit time"
-/>
-
-</div>
-
----
-
-## Contribution activity
-
-<div align="center">
-
-<img
-  width="100%"
-  src="https://ghchart.rshah.org/0ea5e9/Jesusmarq"
-  alt="GitHub contribution chart"
 />
 
 </div>
