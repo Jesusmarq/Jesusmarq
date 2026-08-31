@@ -282,15 +282,24 @@ Web Development
 
 ---
 
-## Contribution activity
+## Contribution snake
 
 <div align="center">
 
-<img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Jesusmarq&theme=react-dark&hide_border=true&area=true"
-  alt="GitHub activity graph"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Jesusmarq/Jesusmarq/gh-pages/github-contribution-grid-snake-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Jesusmarq/Jesusmarq/gh-pages/github-contribution-grid-snake.svg"
+  >
+  <img
+    src="https://raw.githubusercontent.com/Jesusmarq/Jesusmarq/gh-pages/github-contribution-grid-snake.svg"
+    alt="Contribution snake animation"
+  >
+</picture>
 
 </div>
 
