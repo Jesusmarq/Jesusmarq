@@ -282,24 +282,15 @@ Web Development
 
 ---
 
-## Contribution snake
+## Contribution activity
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Jesusmarq/Jesusmarq/gh-pages/github-contribution-grid-snake-dark.svg"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Jesusmarq/Jesusmarq/gh-pages/github-contribution-grid-snake.svg"
-  >
-  <img
-    src="https://raw.githubusercontent.com/Jesusmarq/Jesusmarq/gh-pages/github-contribution-grid-snake.svg"
-    alt="Contribution snake animation"
-  >
-</picture>
+<img
+  width="100%"
+  src="https://ghchart.rshah.org/0ea5e9/Jesusmarq"
+  alt="GitHub contribution chart"
+/>
 
 </div>
 
